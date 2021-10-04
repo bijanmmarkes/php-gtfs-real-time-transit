@@ -1,0 +1,17 @@
+{
+    "name": "bijanmmarkes/php-gtfs-real-time-transit",
+    "description": "PHP Classes and custom buffer for integrating GTFS real-time into PHP projects.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bijanmmarkes\\PhpGtfsRealTimeTransit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bijanmmarkes",
+            "email": "bijammarkes@gmail.com"
+        }
+    ],
+    "require": {}
+}
